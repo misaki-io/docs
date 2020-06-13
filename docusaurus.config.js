@@ -2,7 +2,7 @@ module.exports = {
   title: 'Misaki',
   tagline: 'Deploy anywhere',
   url: 'https://misaki.io',
-  baseUrl: '/',
+  baseUrl: '',
   favicon: 'img/favicon.ico',
   organizationName: 'misaki-io', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.

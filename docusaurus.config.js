@@ -2,9 +2,9 @@ module.exports = {
   title: 'Misaki',
   tagline: 'Deploy anywhere',
   url: 'https://misaki.io',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Misaki', // Usually your GitHub org/user name.
+  organizationName: 'misaki-io', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {

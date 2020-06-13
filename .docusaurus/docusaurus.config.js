@@ -81,7 +81,7 @@ export default {
   "title": "Misaki",
   "tagline": "Deploy anywhere",
   "url": "https://misaki.io",
-  "baseUrl": "/docs/",
+  "baseUrl": "/",
   "favicon": "img/favicon.ico",
   "organizationName": "misaki-io",
   "projectName": "docs",

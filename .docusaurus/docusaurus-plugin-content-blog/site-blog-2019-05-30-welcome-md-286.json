@@ -1,0 +1,28 @@
+{
+  "permalink": "/docs/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+  "source": "@site/blog/2019-05-30-welcome.md",
+  "description": "こんにちは！",
+  "date": "2019-05-30T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "misaki",
+      "permalink": "/docs/blog/tags/misaki"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/blog/tags/docusaurus"
+    }
+  ],
+  "title": "Konnichiwa",
+  "readingTime": 0.005,
+  "truncated": false,
+  "nextItem": {
+    "title": "Welcome!",
+    "permalink": "/docs/blog/hello-world"
+  }
+}

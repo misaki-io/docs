@@ -12,7 +12,7 @@ module.exports = {
       logo: {
         alt: 'Misaki Logo',
         src: 'img/logo.svg',
-        srcDark: 'img/logo_dark.sgv',
+        srcDark: 'img/logo_dark.svg',
         href: 'https://misaki.io'
       },
       links: [

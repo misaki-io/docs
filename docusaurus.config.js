@@ -10,8 +10,10 @@ module.exports = {
     navbar: {
       title: 'Misaki',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Misaki Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo_dark.sgv',
+        href: 'https://misaki.io'
       },
       links: [
         {
